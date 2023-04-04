@@ -21,6 +21,8 @@
  2. **Creating Your .c and .h Files**
     - On the right hand panel after you create your project you will see the layout and contents of your project directory.
     - Click the small page icon to create a new file. Name the file ```test.c```
+    ![image](https://user-images.githubusercontent.com/65826366/229682380-ae2da4b1-6f94-4ab4-a307-7da57011edff.png)
+
         - This is where you are going to put your program, all of your functions and your main function.
         - Create these functions,
         ```
